@@ -1,0 +1,23 @@
+{
+  "name": "ydx-async",
+  "version": "1.0.0",
+  "description": "## Задание",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanvik175/ydx-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanvik175/ydx-async/issues"
+  },
+  "homepage": "https://github.com/kanvik175/ydx-async#readme"
+}
